@@ -1,4 +1,5 @@
 # ml-arch
+<<<<<<< HEAD
 
 
 ### Previewing the website locally
@@ -14,3 +15,5 @@ Build the website
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+=======
+>>>>>>> 3a7701dc6bef67795abad4d79418f21099dd3aea
