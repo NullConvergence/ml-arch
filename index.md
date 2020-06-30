@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+
+This website hosts resources about software achitecture for systems which use machine learning components.
+
+The project is open source and contributions are welcomed through Github.
+
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
