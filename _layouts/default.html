@@ -22,6 +22,8 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+
+
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
@@ -30,9 +32,11 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
-        {% if site.mudd_link %}
-        <p class="view"><a href="{{ }}">MUDD</a></p>
-        {% endif %}
+        <ul>
+          <li>  <a href="/pages/reading_list">Reading List</a> </li>
+          <li> <a href="/pages/mudd">MUDD</a></li>
+        </ul>
+
 
 
 
